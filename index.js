@@ -18,4 +18,4 @@ function deleteFromDriverByKey(obj, key)
   return newObj;
 }
 
-let newDriver = deleteFromDriverByKey(driver, 'Sam');
+function
